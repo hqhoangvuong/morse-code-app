@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morse-code-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/morse-code-app/static/js/main.8a317da9.chunk.js",
+    "main.js.map": "/morse-code-app/static/js/main.8a317da9.chunk.js.map",
+    "runtime-main.js": "/morse-code-app/static/js/runtime-main.b0b22324.js",
+    "runtime-main.js.map": "/morse-code-app/static/js/runtime-main.b0b22324.js.map",
+    "static/js/2.e83620d7.chunk.js": "/morse-code-app/static/js/2.e83620d7.chunk.js",
+    "static/js/2.e83620d7.chunk.js.map": "/morse-code-app/static/js/2.e83620d7.chunk.js.map",
+    "static/js/3.9b838ec9.chunk.js": "/morse-code-app/static/js/3.9b838ec9.chunk.js",
+    "static/js/3.9b838ec9.chunk.js.map": "/morse-code-app/static/js/3.9b838ec9.chunk.js.map",
+    "index.html": "/morse-code-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/morse-code-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e83620d7.chunk.js.LICENSE.txt": "/morse-code-app/static/js/2.e83620d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b22324.js",
+    "static/js/2.e83620d7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8a317da9.chunk.js"
+  ]
+}
